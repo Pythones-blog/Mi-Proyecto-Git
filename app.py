@@ -10,3 +10,4 @@ print ("Tercer commit sobre la rama rama1")
 #Nuevo commit usando GitKraken
 print ("Solucionamos un error en el código")
 #Lanzamos la version 1.1
+print ("Trabajamos como un desarrollador más")
